@@ -1,6 +1,7 @@
 
 # Final Project - Deep Learning Fall 2024
-### Group  RetinoScope ([Kavinda Rathnayaka](https://github.com/Kavi91) 2305410, Shalika Kande Vidanalage, Ashika Ruwanthi)
+### Group Name:  RetinoScope 
+#### Authors :([Kavinda Rathnayaka](https://github.com/Kavi91) 2305410, Shalika Kande Vidanalage, Ashika Ruwanthi)
 
 This repository contains the implementation of tasks A, B, and C, which aim to detect and classify retinopathy using advanced deep learning techniques. The project leverages datasets such as DeepDRiD and APTOS for training, evaluation, and testing. Key features include custom augmentation pipelines, self-attention mechanisms, and visualization tools.
 
