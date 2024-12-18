@@ -14,7 +14,7 @@ This repository contains the implementation of tasks A, B, and C, which aim to d
 - [Usage](#usage)
 - [Results](#results)
 - [Visualizations](#visualizations)
-- [Contributing](#contributing)
+- [Contribution](#contributing)
 - [License](#license)
 
 ---
@@ -92,6 +92,14 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 
 ---
+
+## Individual Contribution
+
+1. Task a b , d-2, e-1 - Kavinda Rathnayaka
+2. Task c, e-2 - Shalika Kande Vidanage
+3. Task d1 - Ashika Ruwanthi
+
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
