@@ -36,7 +36,7 @@ Retinopathy detection is a crucial task in medical imaging. This project demonst
 
 ## Project Tasks
 
-### Task A: Classification
+### Task A: 
 This task involves training a model on the **DeepDRiD dataset** to classify retinopathy into 5 levels. Key highlights:
 - Custom augmentations for better generalization.
 - Training and validation pipeline with kappa score evaluation.
