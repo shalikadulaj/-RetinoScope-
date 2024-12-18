@@ -1,7 +1,7 @@
 
 # Final Project - Deep Learning Fall 2024
 ### Group Name:  RetinoScope 
-#### Authors :([Kavinda Rathnayaka](https://github.com/Kavi91) 2305410, Shalika Kande Vidanalage, Ashika Ruwanthi)
+#### Authors :([Kavinda Rathnayaka](https://github.com/Kavi91) 2305410, [Shalika Kande Widanalage](https://github.com/shalikadulaj) 2305411, Ashika Ruwanthi)
 #### University of Oulu
 
 This repository contains the implementation of the Deep Learning 521153S-3005 course Final Project, which aims to train deep learning models for retinopathy detection using advanced techniques such as Dual Mode, Two-Stage Training, Attention (Spatial and Self), and Ensemble Learning, along with state-of-the-art Explainable AI methods like GradCAM. The project leverages datasets such as DeepDRiD and APTOS for training, evaluation, and testing. Key features include custom augmentation pipelines, self-attention mechanisms, and visualization tools.
@@ -134,7 +134,7 @@ This task introduces self-attention mechanisms in the classification model. The 
 ## Individual Contribution
 
 1. Task a, b , d-2, e-1 - Kavinda Rathnayaka
-2. Task c, e-2 - Shalika Kande Vidanage
+2. Task c, e-2 - Shalika Kande Widanalage
 3. Task d1 - Ashika Ruwanthi
 
 ---
