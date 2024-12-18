@@ -95,7 +95,7 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ![W B Chart 12_18_2024, 10_05_02 PM](https://github.com/user-attachments/assets/14aacaf7-cc39-4e44-b173-6f58adbfe97d)
 
-[For ore Results here] 
+[For more Results here](https://github.com/shalikadulaj/-RetinoScope-/tree/0a27866e80b76c1e250e832cd956dc1247dfcb93/Results)
 ---
 
 ## Visualizations
