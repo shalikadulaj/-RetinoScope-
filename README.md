@@ -24,13 +24,15 @@ This repository contains the implementation of the Deep Learning 521153S-3005 co
 ---
 
 ## Overview
-Retinopathy detection is a crucial task in medical imaging. This project demonstrates how deep learning models can achieve high accuracy and robustness in diagnosing retinopathy across multiple datasets. The implementation uses PyTorch, torchvision, and various augmentation and attention techniques.
+Retinopathy detection is a crucial task in medical imaging. This project demonstrates how deep learning models can achieve high accuracy and robustness in diagnosing retinopathy across multiple datasets. 
 
 ### Features
-- **Custom Augmentation**: Augmentation techniques including random crop, rotation, color jitter, and self-designed `CutOut`.
+- **Custom Augmentation**: Augmentation techniques include random crop, rotation, color jitter, and self-design.
 - **Transfer Learning**: Utilize pre-trained models for cross-dataset learning.
-- **Attention Mechanisms**: Implement self-attention for feature enhancement.
+- **Attention Mechanisms**: Implement self-attention and Spatial Attention for feature enhancement.
 - **Visualization**: Training loss, kappa scores, confusion matrices, and more.
+- **Ensemble Learning
+- **Explainable AI for model description 
 
 ---
 
