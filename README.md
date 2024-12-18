@@ -81,12 +81,9 @@ This task introduces self-attention mechanisms in the classification model. The 
 ## Results
 
 
-
-
 ---
 
-##Visualizations
-
+## Visualizations
 
 
 ---
