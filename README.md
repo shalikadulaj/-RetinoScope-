@@ -40,9 +40,18 @@ Retinopathy detection is a crucial task in medical imaging. This project demonst
 This task involves training a model on the **DeepDRiD dataset** to classify retinopathy into 5 levels. Key highlights:
 - Custom augmentations for better generalization.
 - Training and validation pipeline with kappa score evaluation.
+- Architecture - Dual Mode
+
+<img width="715" alt="Screenshot 2024-12-18 at 22 48 24" src="https://github.com/user-attachments/assets/3c56c02a-c3cf-42b3-b3da-0779fb142a32" />
+
+  
 
 ### Task B: Transfer Learning
 In this task, we use a pre-trained model (trained on the **APTOS-2019 dataset**) to transfer knowledge for classification on the **DeepDRiD dataset**. The approach involves fine-tuning to adapt to new domain-specific features.
+
+- Reference Architecture
+  
+<img width="734" alt="Screenshot 2024-12-18 at 22 48 58" src="https://github.com/user-attachments/assets/33c60f8d-f784-4544-806a-ecf85e2ffdac" />
 
 ### Task C: Attention Mechanisms
 This task introduces self-attention mechanisms in the classification model. The addition of attention layers improves feature extraction and enhances model performance.
