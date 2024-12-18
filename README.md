@@ -31,8 +31,8 @@ Retinopathy detection is a crucial task in medical imaging. This project demonst
 - **Transfer Learning**: Utilize pre-trained models for cross-dataset learning.
 - **Attention Mechanisms**: Implement self-attention and Spatial Attention for feature enhancement.
 - **Visualization**: Training loss, kappa scores, confusion matrices, and more.
-- **Ensemble Learning
-- **Explainable AI for model description 
+- **Ensemble Learning** - Stacking, Boosting, Weighted Average, Max Voting, Bagging
+- **Explainable AI for model description** - GradCAM 
 
 ---
 
