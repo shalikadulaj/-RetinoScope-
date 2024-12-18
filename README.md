@@ -85,9 +85,13 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ## Results
 
-
-
-
+| Model Name                      | Batch Size | Learning Rate | Epochs | Best Epoch | Train Kappa | Train Accuracy | Train Precision | Train Recall | Train Loss | Val Kappa | Val Accuracy | Val Precision | Val Recall | Val Loss |
+|---------------------------------|------------|---------------|--------|------------|-------------|----------------|-----------------|--------------|------------|-----------|--------------|---------------|------------|----------|
+| model_dual_run_taskA            | 32         | 0.0001        | 20     | 15         | 0.91        | 0.85           | 0.84            | 0.86         | 0.3        | 0.88      | 0.81         | 0.82          | 0.79       | 0.2      |
+| model_dual_run_taskB2_DeepDRid  | 32         | 0.0001        | 20     | 12         | 0.87        | 0.83           | 0.82            | 0.84         | 0.35       | 0.86      | 0.8          | 0.81          | 0.78       | 0.25     |
+| model_dual_run_taskB_APTOS      | 32         | 0.0001        | 20     | 14         | 0.89        | 0.86           | 0.85            | 0.87         | 0.28       | 0.87      | 0.82         | 0.83          | 0.8        | 0.23     |
+| model_dual_run_taskC_Self_Attention | 32      | 0.0001        | 20     | 13         | 0.92        | 0.88           | 0.87            | 0.89         | 0.26       | 0.9       | 0.85         | 0.86          | 0.84       | 0.18     |
+| model_dual_run_taskC_Spatial_Attention | 32   | 0.0001        | 20     | 11         | 0.93        | 0.89           | 0.88            | 0.9          | 0.22       | 0.91      | 0.86         | 0.87          | 0.85       | 0.17     |
 
 ---
 
