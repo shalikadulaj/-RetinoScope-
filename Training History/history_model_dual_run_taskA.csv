@@ -1,0 +1,2 @@
+Model Name,Batch Size,Learning Rate,Epochs,Best Epoch,Train Kappa,Train Accuracy,Train Precision,Train Recall,Train Loss,Val Kappa,Val Accuracy,Val Precision,Val Recall,Val Loss
+./model_dual_run_taskA.pth,32,0.0001,20,20,0.8736600306278715,0.75,0.7395450537117204,0.75,0.6677892866887545,0.8669751301330249,0.725,0.7161145617667357,0.725,0.8002501853874752
