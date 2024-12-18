@@ -76,7 +76,7 @@ This task introduces self-attention mechanisms in the classification model. The 
   Upload the [.ipynb](https://github.com/shalikadulaj/-RetinoScope-/tree/50079a5755f5edb0d4186eab163a8e8d0a2b45fc/Notebooks) file to the Google Colab environment and run it using a 
   hosted GPU or a local runtime with GPU availability.
    
-3. **Python file Execution
+3. **Python [.py](https://github.com/shalikadulaj/-RetinoScope-/tree/01446ec2e9111f38d0a06b73aaf948c47e12a9c2/src) file Execution
    ```bash
    python File_name.py
 
