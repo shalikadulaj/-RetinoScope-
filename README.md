@@ -71,7 +71,9 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ## Usage
 
-1. **Google Colab .ipynb
+1. **Google Colab
+
+  Upload the [.ipynb]() file to the Google Colab environment and run it using a hosted GPU or a local runtime with GPU availability.
    
 3. **Python file Execution
    ```bash
