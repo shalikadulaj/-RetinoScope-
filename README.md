@@ -85,7 +85,17 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ## Results
 
+![W B Chart 12_18_2024, 10_03_01 PM](https://github.com/user-attachments/assets/57a2db70-d9bd-4f3e-b758-eaefeae7fd89)
 
+![W B Chart 12_18_2024, 10_03_28 PM](https://github.com/user-attachments/assets/e15ac323-3a01-4338-8b64-e4e8076dcad9)
+
+![W B Chart 12_18_2024, 10_03_37 PM](https://github.com/user-attachments/assets/4b61631e-0564-464b-b91b-b70dfab64e89)
+
+![W B Chart 12_18_2024, 10_04_18 PM](https://github.com/user-attachments/assets/3b50c595-e90f-4989-9cc2-edb5ba021ade)
+
+![W B Chart 12_18_2024, 10_05_02 PM](https://github.com/user-attachments/assets/14aacaf7-cc39-4e44-b173-6f58adbfe97d)
+
+[For ore Results here] 
 ---
 
 ## Visualizations
@@ -99,7 +109,7 @@ This task introduces self-attention mechanisms in the classification model. The 
 2. Task c, e-2 - Shalika Kande Vidanage
 3. Task d1 - Ashika Ruwanthi
 
-
+---
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
