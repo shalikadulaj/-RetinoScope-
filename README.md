@@ -50,8 +50,8 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/retinopathy-detection.git
-   cd retinopathy-detection
+   git clone https://github.com/shalikadulaj/-RetinoScope-.git
+   cd -RetinoScope-
 
 2. **Set up a Virtual Environment
    ```bash
