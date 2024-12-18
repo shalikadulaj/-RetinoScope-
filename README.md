@@ -68,6 +68,10 @@ This task introduces self-attention mechanisms in the classification model. The 
 
    [DeepDRiD](https://www.kaggle.com/competitions/521153S-3005-final-project/data)
 
+5. **Download the Pre-Trained Models
+
+   [Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EheAw6y0KYxBupax2qY7EsoB5tTuadoT2ybtIjImDHzMyQ?e=mZpWEK )  
+
 ---   
 
 ## Usage
