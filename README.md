@@ -4,7 +4,7 @@
 #### Authors :([Kavinda Rathnayaka](https://github.com/Kavi91) 2305410, Shalika Kande Vidanalage, Ashika Ruwanthi)
 #### University of Oulu
 
-This repository contains the implementation of the Deep Learning 521153S-3005 course Final Project, which aims to train deep learning models for retinopathy detection using advanced techniques such as Dual Mode, Two-Stage Training, Attention (Spatial and Self), and Ensemble Learning, along with state-of-the-art Explainable AI methods like Grad-CAM. The project leverages datasets such as DeepDRiD and APTOS for training, evaluation, and testing. Key features include custom augmentation pipelines, self-attention mechanisms, and visualization tools.
+This repository contains the implementation of the Deep Learning 521153S-3005 course Final Project, which aims to train deep learning models for retinopathy detection using advanced techniques such as Dual Mode, Two-Stage Training, Attention (Spatial and Self), and Ensemble Learning, along with state-of-the-art Explainable AI methods like GradCAM. The project leverages datasets such as DeepDRiD and APTOS for training, evaluation, and testing. Key features include custom augmentation pipelines, self-attention mechanisms, and visualization tools.
 
 ## Table of Contents
 - [Overview](#overview)
