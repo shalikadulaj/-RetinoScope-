@@ -9,11 +9,11 @@ This repository contains the implementation of the Deep Learning 521153S-3005 co
 ## Table of Contents
 - [Overview](#overview)
 - [Project Tasks](#project-tasks)
-  - [Task A: Fine-tune a pretrained model using the DeepDRiD dataset](#task-a)
-  - [Task B: Two stage training with additional dataset(s)](#task-b)
-  - [Task C: Incorporate attention mechanisms in the model](#task-c)
-  - [Task D: Ensemble Learning - Compare the performance of different models and strategies ](#task-d)
-  - [Task E: Creating Visualizations and Explainable AI](#task-e)
+  - Task A: Fine-tune a pretrained model using the DeepDRiD dataset
+  - Task B: Two stage training with additional dataset(s)
+  - Task C: Incorporate attention mechanisms in the model
+  - Task D: Ensemble Learning - Compare the performance of different models and strategies
+  - Task E: Creating Visualizations and Explainable AI
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
