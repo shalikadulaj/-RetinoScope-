@@ -49,3 +49,47 @@ This task introduces self-attention mechanisms in the classification model. The 
    ```bash
    git clone https://github.com/yourusername/retinopathy-detection.git
    cd retinopathy-detection
+
+2. **Set up a Virtual Environment
+   ```bash
+    python -m venv env
+    source env/bin/activate  # On Windows: env\Scripts\activate
+
+3. **Install Dependencies
+   ```bash
+     pip install -r requirements.txt
+
+4. **Download the Datasets
+
+   [APTOS-2019 dataset](https://www.kaggle.com/datasets/mariaherrerot/aptos2019)
+
+   [DeepDRiD](https://www.kaggle.com/competitions/521153S-3005-final-project/data)
+
+---   
+
+## Usage
+
+1. **Google Colab .ipynb
+   
+3. **Python file Execution
+   ```bash
+   python File_name.py
+
+  
+---
+
+## Results
+
+
+
+
+---
+
+##Visualizations
+
+
+
+---
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
