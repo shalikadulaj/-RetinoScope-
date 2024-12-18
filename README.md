@@ -114,7 +114,7 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ## Individual Contribution
 
-1. Task a b , d-2, e-1 - Kavinda Rathnayaka
+1. Task a, b , d-2, e-1 - Kavinda Rathnayaka
 2. Task c, e-2 - Shalika Kande Vidanage
 3. Task d1 - Ashika Ruwanthi
 
