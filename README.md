@@ -84,11 +84,11 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 5. **Download the Pre-Trained Models
 
-   [Task A Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EhMNbtO60-ZDkwTHsVNGwFUBXFbJeXWY07k2BosQUSouMA?e=ivENib)
-   [Task B-APTOS Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/Esh4AlfsBD9Hi2hJMaMx33ABndqP6salU6Gv0g1cKjHRMQ?e=jMp6BP)
-   [Task B-DeepDRid Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/ErxfjYqYDSRKqX5L8rG7hEoBNXk8WnIE1X8ipITZDHhgwA?e=jetVg7)
-   [Task C Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EiUSmN9jtyNOuKtv2w9ni4sBn1EGI49_HHBGEOEWnejREw?e=0uKhOa)
-   [Task D Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EuYHVHo8dsNNgRzs7epGx4sBr-89736Y3HqASCFRsQ2aJg?e=QkTlTo)          
+   - [Task A Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EhMNbtO60-ZDkwTHsVNGwFUBXFbJeXWY07k2BosQUSouMA?e=ivENib)
+   - [Task B-APTOS Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/Esh4AlfsBD9Hi2hJMaMx33ABndqP6salU6Gv0g1cKjHRMQ?e=jMp6BP)
+   - [Task B-DeepDRid Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/ErxfjYqYDSRKqX5L8rG7hEoBNXk8WnIE1X8ipITZDHhgwA?e=jetVg7)
+   - [Task C Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EiUSmN9jtyNOuKtv2w9ni4sBn1EGI49_HHBGEOEWnejREw?e=0uKhOa)
+   - [Task D Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EuYHVHo8dsNNgRzs7epGx4sBr-89736Y3HqASCFRsQ2aJg?e=QkTlTo)          
 
 ---   
 
