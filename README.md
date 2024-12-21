@@ -94,6 +94,10 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ## Usage
 
+> **Note:**  
+> Kindly ensure that the dataset paths are correctly set in the main file before running the code.
+
+
 1. **Google Colab
 
   Upload the [.ipynb](https://github.com/shalikadulaj/-RetinoScope-/tree/50079a5755f5edb0d4186eab163a8e8d0a2b45fc/Notebooks) file to the Google Colab environment and run it using a 
