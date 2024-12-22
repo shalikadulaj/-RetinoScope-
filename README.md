@@ -113,7 +113,7 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
       
        - [APTOS-2019-resnet18](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_APTOS-RESNET18.ipynb)
        - [APTOS-2019-resnet34](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_APTOS-RESNET34.ipynb)
-       - [APTOS-2019-resnet60](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_APTOS-VGG16.ipynb)
+       - [APTOS-2019-VGG16](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_APTOS-VGG16.ipynb)
          
        - [DeepDRid-resnet18](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_II_DeepDRid-RESNET18.ipynb)
        - [DeepDRid-resnet34](https://github.com/shalikadulaj/-RetinoScope-/blob/01e0bd47d27f3ee8f096bec3c777d602eca8e472/Notebooks/DL_FP_Task_B_II_DeepDRid-RESNET34.ipynb)
