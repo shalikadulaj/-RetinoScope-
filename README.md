@@ -108,7 +108,7 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
 5. Download the codes
 
-    - Task A 
+    - [Task A](https://github.com/shalikadulaj/-RetinoScope-/blob/f588a6fbc60c4f01cc57de8a8c8727e5861712c7/Notebooks/DL_FP_Task_A.ipynb) 
     - Task B
     - Task C
       - [Self-attention](https://github.com/shalikadulaj/-RetinoScope-/blob/b0313c0334d639cb0cfc23e06fc18701f8e9f49d/src/dl_fp_task_c_with_self_attention.py)
