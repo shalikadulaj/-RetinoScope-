@@ -110,6 +110,10 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
     - [Task A](https://github.com/shalikadulaj/-RetinoScope-/blob/f588a6fbc60c4f01cc57de8a8c8727e5861712c7/Notebooks/DL_FP_Task_A.ipynb) 
     - Task B
+       - [APTOS-2019]()
+       - [DeepDRid-resnet18]()
+       - [DeepDRid-resnet34]()
+       - [DeepDRid-VGG16]()
     - Task C
       - [Self-attention](https://github.com/shalikadulaj/-RetinoScope-/blob/b0313c0334d639cb0cfc23e06fc18701f8e9f49d/src/dl_fp_task_c_with_self_attention.py)
       - [Spatial-attention](https://github.com/shalikadulaj/-RetinoScope-/blob/8248de7ee00ee51a8db491eee650f5fd28046ac9/src/dl_fp_task_c_with_spatial_attention.py) 
