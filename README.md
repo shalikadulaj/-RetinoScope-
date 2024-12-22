@@ -111,7 +111,7 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
     - Task A 
     - Task B
     - Task C
-      - Self-attention
+      - [Self-attention](https://github.com/shalikadulaj/-RetinoScope-/blob/b0313c0334d639cb0cfc23e06fc18701f8e9f49d/src/dl_fp_task_c_with_self_attention.py)
       - Spatial-attention 
     - Task D
     - Task E - Explainable AI
