@@ -14,7 +14,7 @@ This repository contains the implementation of the Deep Learning 521153S-3005 co
   - Task C: Incorporate attention mechanisms in the model
   - Task D: Ensemble Learning - Compare the performance of different models and strategies
   - Task E: Creating Visualizations and Explainable AI
-- [Installation and Codes](#installation)
+- [Installation and Codes](#installation-and-codes)
 - [Usage](#usage)
 - [Results](#results)
 - [Visualizations](#visualizations)
