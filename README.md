@@ -58,6 +58,30 @@ In this task, we use a pre-trained model (trained on the **APTOS-2019 dataset**)
 ### Task C: Attention Mechanisms
 This task introduces self-attention mechanisms in the classification model. The addition of attention layers improves feature extraction and enhances model performance.
 
+
+### Task D: Ensemble Learning 
+
+
+
+### Task E: Explainable AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## Installation
