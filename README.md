@@ -63,10 +63,10 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 
 
-### Task E: Explainable AI
+### Task E: Explainable AI 
 
 
-
+In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighted Class Activation Mapping) to highlight the important regions in an input image that a convolutional neural network focuses on when making a predictions.
 
 
 
