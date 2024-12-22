@@ -108,15 +108,15 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
 5. Download the codes
 
-  - Task A 
-  - Task B
-  - Task C
-    - Self-attention
-    - Spatial-attention 
-  - Task D
-  - Task E - Explainable AI
-    -   Single Model
-    -   Dual Model
+    - Task A 
+    - Task B
+    - Task C
+      - Self-attention
+      - Spatial-attention 
+    - Task D
+    - Task E - Explainable AI
+      -   Single Model
+      -   Dual Model
 
 
  
