@@ -178,10 +178,13 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
 [For more Results](https://github.com/shalikadulaj/-RetinoScope-/tree/0a27866e80b76c1e250e832cd956dc1247dfcb93/Results)
 
-#### Results of GradCAM for SingleModel
+#### Results of GradCAM for Single Model
 
-![Results of GradCAM for SingleModel](https://github.com/shalikadulaj/-RetinoScope-/blob/main/Results/task_E-GradCAM-SingleModel.png)
+![Results of GradCAM for Single Model](https://github.com/shalikadulaj/-RetinoScope-/blob/main/Results/task_E-GradCAM-SingleModel.png)
 
+#### Results of GradCAM for Dual Model
+
+![Results of GradCAM for Dual Model](https://github.com/shalikadulaj/-RetinoScope-/blob/edc5f8d2f9b5876ebc5122c2a6bb139f2ddc70ea/Results/task_E_GradCAM_Dual_Model.png)
 ---
 
 ## Individual Contribution
