@@ -14,7 +14,7 @@ This repository contains the implementation of the Deep Learning 521153S-3005 co
   - Task C: Incorporate attention mechanisms in the model
   - Task D: Ensemble Learning - Compare the performance of different models and strategies
   - Task E: Creating Visualizations and Explainable AI
-- [Installation](#installation)
+- [Installation and Codes](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Visualizations](#visualizations)
@@ -84,7 +84,7 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
 ---
 
-## Installation
+## Installation and Codes
 
 1. **Clone the Repository**
    ```bash
@@ -106,7 +106,21 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
    [DeepDRiD](https://www.kaggle.com/competitions/521153S-3005-final-project/data)
 
-5. **Download the Pre-Trained Models
+5. Download the codes
+
+  - Task A 
+  - Task B
+  - Task C
+    - Self-attention
+    - Spatial-attention 
+  - Task D
+  - Task E - Explainable AI
+    -   Single Model
+    -   Dual Model
+
+
+ 
+6. **Download the Pre-Trained Models
 
    - [Task A Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EhMNbtO60-ZDkwTHsVNGwFUBXFbJeXWY07k2BosQUSouMA?e=ivENib)
    - [Task B-APTOS Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/Esh4AlfsBD9Hi2hJMaMx33ABndqP6salU6Gv0g1cKjHRMQ?e=jMp6BP)
