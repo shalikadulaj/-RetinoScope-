@@ -116,7 +116,7 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
     - Task D
     - Task E - Explainable AI
       -   [Single Model](https://github.com/shalikadulaj/-RetinoScope-/blob/8248de7ee00ee51a8db491eee650f5fd28046ac9/src/task_E_GradCAM_for_Single_Model.py)
-      -   Dual Model
+      -   [Dual Model](https://github.com/shalikadulaj/-RetinoScope-/blob/7841136543d06e9d795ab05e1efe406819e56da8/src/task_E_GradCAM_for_Dual_Model.py)
 
 
  
