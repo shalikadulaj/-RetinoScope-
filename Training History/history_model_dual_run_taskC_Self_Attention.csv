@@ -1,2 +1,0 @@
-Model Name,Batch Size,Learning Rate,Epochs,Best Epoch,Train Kappa,Train Accuracy,Train Precision,Train Recall,Train Loss,Val Kappa,Val Accuracy,Val Precision,Val Recall,Val Loss
-./model_dual_run_taskC_Self_Attention.pth,32,0.0001,20,14,0.93701370878103,0.855,0.8579297035523584,0.855,0.4595562517642975,0.8398268398268398,0.695,0.6864220713563484,0.695,0.8798894286155701

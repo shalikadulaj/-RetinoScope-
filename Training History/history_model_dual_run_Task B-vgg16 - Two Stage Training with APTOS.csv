@@ -1,2 +1,0 @@
-Model Name,Batch Size,Learning Rate,Epochs,Best Epoch,Train Kappa,Train Accuracy,Train Precision,Train Recall,Train Loss,Val Kappa,Val Accuracy,Val Precision,Val Recall,Val Loss
-./model_dual_run_Task B-vgg16 - Two Stage Training with APTOS.pth,32,0.0001,20,20,0.8002373417721519,0.6316666666666667,0.5919962742104301,0.6316666666666667,0.9314268733325758,0.8204379562043795,0.675,0.6067598703664278,0.675,0.933222940989903
