@@ -1,0 +1,2 @@
+Model Name,Batch Size,Learning Rate,Epochs,Best Epoch,Train Kappa,Train Accuracy,Train Precision,Train Recall,Train Loss,Val Kappa,Val Accuracy,Val Precision,Val Recall,Val Loss
+./model_dual_run_Task B-resnet34 - Two Stage Training with APTOS.pth,32,0.0001,20,5,0.8611378977820636,0.71,0.6852312496116324,0.71,0.7179533619629709,0.832272990167727,0.68,0.6193124432871739,0.68,0.8994153993470329
