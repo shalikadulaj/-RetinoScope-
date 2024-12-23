@@ -177,16 +177,13 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 ---
 
 ## Visualizations
+![W B Chart 12_23_2024, 8_25_47 PM](https://github.com/user-attachments/assets/84cba572-ee0d-45e4-8641-9312a85249da)
 
-![W B Chart 12_18_2024, 10_03_01 PM](https://github.com/user-attachments/assets/57a2db70-d9bd-4f3e-b758-eaefeae7fd89)
+![W B Chart 12_23_2024, 8_25_24 PM](https://github.com/user-attachments/assets/483f38ac-c858-49f9-b8c1-47891b3d8304)
 
-![W B Chart 12_18_2024, 10_03_28 PM](https://github.com/user-attachments/assets/e15ac323-3a01-4338-8b64-e4e8076dcad9)
+![W B Chart 12_23_2024, 8_25_08 PM](https://github.com/user-attachments/assets/6849a36f-f48d-4631-9885-212f795f9a3a)
 
-![W B Chart 12_18_2024, 10_03_37 PM](https://github.com/user-attachments/assets/4b61631e-0564-464b-b91b-b70dfab64e89)
-
-![W B Chart 12_18_2024, 10_04_18 PM](https://github.com/user-attachments/assets/3b50c595-e90f-4989-9cc2-edb5ba021ade)
-
-![W B Chart 12_18_2024, 10_05_02 PM](https://github.com/user-attachments/assets/14aacaf7-cc39-4e44-b173-6f58adbfe97d)
+![W B Chart 12_23_2024, 8_24_48 PM](https://github.com/user-attachments/assets/112ecdf3-e0f2-4bd8-a1e3-5a87cd8266c7)
 
 [For more Results](https://github.com/shalikadulaj/-RetinoScope-/tree/0a27866e80b76c1e250e832cd956dc1247dfcb93/Results)
 
