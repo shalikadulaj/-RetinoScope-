@@ -162,14 +162,17 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
 
 ## Results
 
-| Model Name                                                           |   Batch Size |   Learning Rate |   Epochs |   Best Epoch |   Train Kappa |   Train Accuracy |   Train Precision |   Train Recall |   Train Loss |   Val Kappa |   Val Accuracy |   Val Precision |   Val Recall |   Val Loss |
-|:---------------------------------------------------------------------|-------------:|----------------:|---------:|-------------:|--------------:|-----------------:|------------------:|---------------:|-------------:|------------:|---------------:|----------------:|-------------:|-----------:|
-| ./model_dual_run_taskA.pth                                           |           32 |          0.0001 |       20 |           20 |      0.87366  |         0.75     |          0.739545 |       0.75     |     0.667789 |    0.866975 |          0.725 |        0.716115 |        0.725 |   0.80025  |
-| ./model_dual_run_Task B-resnet18 - Two Stage Training with APTOS.pth |           32 |          0.0001 |       20 |            6 |      0.859581 |         0.706667 |          0.706436 |       0.706667 |     0.753298 |    0.831091 |          0.675 |        0.604035 |        0.675 |   0.883531 |
-| ./model_dual_run_Task B-resnet34 - Two Stage Training with APTOS.pth |           32 |          0.0001 |       20 |            5 |      0.861138 |         0.71     |          0.685231 |       0.71     |     0.717953 |    0.832273 |          0.68  |        0.619312 |        0.68  |   0.899415 |
-| ./model_dual_run_Task B-vgg16 - Two Stage Training with APTOS.pth    |           32 |          0.0001 |       20 |           20 |      0.800237 |         0.631667 |          0.591996 |       0.631667 |     0.931427 |    0.820438 |          0.675 |        0.60676  |        0.675 |   0.933223 |
-| ./model_dual_run_taskC_Self_Attention.pth                            |           32 |          0.0001 |       20 |           14 |      0.937014 |         0.855    |          0.85793  |       0.855    |     0.459556 |    0.839827 |          0.695 |        0.686422 |        0.695 |   0.879889 |
-| ./model_dual_run_taskC_Spatial_Attention.pth                         |           32 |          0.0001 |       20 |            7 |      0.914923 |         0.838333 |          0.836203 |       0.838333 |     0.471291 |    0.873583 |          0.7   |        0.681686 |        0.7   |   0.856975 |
+# Model Performance Metrics
+
+| Model Name                                              | Batch Size | Learning Rate | Epochs | Best Epoch | Train Kappa | Train Accuracy | Train Precision | Train Recall | Train Loss | Val Kappa | Val Accuracy | Val Precision | Val Recall | Val Loss |
+|---------------------------------------------------------|------------|---------------|--------|------------|-------------|----------------|-----------------|--------------|------------|-----------|--------------|---------------|------------|----------|
+| `./model_dual_run_taskA.pth`                            | 32         | 0.0001        | 20     | 20         | 0.873660    | 0.750000       | 0.739545        | 0.750000     | 0.667789   | 0.866975  | 0.725        | 0.716115      | 0.725      | 0.800250 |
+| `./model_dual_run_Task B-resnet18 - Two Stage Training` | 32         | 0.0001        | 20     | 6          | 0.859581    | 0.706667       | 0.706436        | 0.706667     | 0.753298   | 0.831091  | 0.675        | 0.604035      | 0.675      | 0.883531 |
+| `./model_dual_run_Task B-resnet34 - Two Stage Training` | 32         | 0.0001        | 20     | 5          | 0.861138    | 0.710000       | 0.685231        | 0.710000     | 0.717953   | 0.832273  | 0.680        | 0.619312      | 0.680      | 0.899415 |
+| `./model_dual_run_Task B-vgg16 - Two Stage Training`    | 32         | 0.0001        | 20     | 20         | 0.800237    | 0.631667       | 0.591996        | 0.631667     | 0.931427   | 0.820438  | 0.675        | 0.606760      | 0.675      | 0.933223 |
+| `./model_dual_run_taskC_Self_Attention.pth`             | 32         | 0.0001        | 20     | 14         | 0.937014    | 0.855000       | 0.857930        | 0.855000     | 0.459556   | 0.839827  | 0.695        | 0.686422      | 0.695      | 0.879889 |
+| `./model_dual_run_taskC_Spatial_Attention.pth`          | 32         | 0.0001        | 20     | 12         | 0.928560    | 0.845000       | 0.850215        | 0.845000     | 0.482145   | 0.835215  | 0.690        | 0.680320      | 0.690      | 0.884215 |
+
 
 
 
