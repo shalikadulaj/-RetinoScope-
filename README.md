@@ -138,11 +138,11 @@ In this task, we use Explainable AI techniques such as GradCAM (Gradient-weighte
  
 6. **Download the Pre-Trained Models
 
-   - [Task A Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EhMNbtO60-ZDkwTHsVNGwFUBXFbJeXWY07k2BosQUSouMA?e=ivENib)
-   - [Task B-APTOS Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/Esh4AlfsBD9Hi2hJMaMx33ABndqP6salU6Gv0g1cKjHRMQ?e=jMp6BP)
-   - [Task B-DeepDRid Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/ErxfjYqYDSRKqX5L8rG7hEoBNXk8WnIE1X8ipITZDHhgwA?e=jetVg7)
-   - [Task C Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EiUSmN9jtyNOuKtv2w9ni4sBn1EGI49_HHBGEOEWnejREw?e=0uKhOa)
-   - [Task D Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EuYHVHo8dsNNgRzs7epGx4sBr-89736Y3HqASCFRsQ2aJg?e=QkTlTo)          
+   - [Task A Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EhMNbtO60-ZDkwTHsVNGwFUBiWDKcvfNgUTqHX6t0d8fuw?e=GIeyXS)
+   - [Task B-APTOS Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/Esh4AlfsBD9Hi2hJMaMx33ABOda2D6WULGekl60lhsjwGw?e=deGEch)
+   - [Task B-DeepDRid Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/ErxfjYqYDSRKqX5L8rG7hEoBt_CWjySc-aHWfTyTCk3Llg?e=fqXJBv)
+   - [Task C Models](https://unioulu-my.sharepoint.com/:f:/g/personal/krathnay23_student_oulu_fi/EiUSmN9jtyNOuKtv2w9ni4sBJHjVjFoBJw5ZUlTewNXm1A?e=Qm8XLC)
+   - [Task D Models](https://unioulu-my.sharepoint.com/:f:/r/personal/krathnay23_student_oulu_fi/Documents/Deep%20Learning%202024%20-%20Final%20Project%20Models%20-%20Group%20%23Retinoscope/Task%20D%20-%20Modals?csf=1&web=1&e=aIJz05)          
 
 ---   
 
