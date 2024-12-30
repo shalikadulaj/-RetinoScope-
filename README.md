@@ -64,7 +64,8 @@ This task introduces self-attention mechanisms in the classification model. The 
 
 ### Task D: Ensemble Learning 
 
-
+In this task, Different ensemble learning techniques were experimented over base models. The validation data of **DeepDRiD dataset** set was used to obtain predictions from base models (ResNet18, ResNet34 and VGG16) because the training data set has already been used for training the base models. Results indicates that the performance was enhanced with ensemble learning techniques.
+Further, several pre-processing techniques were examined over enseble learning techniques. The performance was further enhanced with pre-processing techniques. 
 
 ### Task E: Explainable AI 
 
